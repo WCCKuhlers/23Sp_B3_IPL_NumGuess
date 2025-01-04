@@ -1,5 +1,5 @@
 # Number Guess Game smith
-
+# Kuhlers test 010425
 import math
 from random import randint
 
